@@ -43,9 +43,4 @@ _I used my tweeing knowledge to create a sort of 3-D motion._
 _In this one, I was able to use the bone tool to make different parts of the body an object. This way I am able to control the motion of the skeleton._
 
 In Character Animate, I was able to customize my character and have it do whatever I was doing. For this, I had to let it access my camera and microphone. I wasn't so excited about experimenting with it, but I understood how to use the Rigging function. I did think it was pretty cool to see that it copied what I did, and it helped me link to animations today. 
-
-![Character1](/CharacterAnimate1.gif)
-
-_This shows my customized boy copying my actions._
-
-
+_I'm not able to upload the project, sorry._
