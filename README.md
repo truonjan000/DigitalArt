@@ -38,11 +38,7 @@ _For this experiment, I learned the new skills of shape and classic tweening, as
 
 _I used my tweeing knowledge to create a sort of 3-D motion._
 
-![Animate5](/ExperimentAnimate6.gif)
-
-_For this one, I learned how to create interactive animation. When you click on one of the circles, it will dissapear._
-
-![Animate6](/ExperimentAnimate7.gif)
+![Animate5](/ExperimentAnimate7.gif)
 
 _In this one, I was able to use the bone tool to make different parts of the body an object. This way I am able to control the motion of the skeleton._
 
