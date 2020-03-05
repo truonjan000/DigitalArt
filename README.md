@@ -12,7 +12,7 @@ _This is a simple GIF of a rainbow._
 
 To further my understanding in Adobe Photoshop, I created two complex GIFs. I learned to pick high-quality pictures,so when I transform the picture, it has the same quality. I also learned to crop the picture from the background. This was essential in the first animation shown below. I learned to create mulitple keyframes on timeline to create animations in Photoshop. 
 
-![Photoshop2](/Experimenting4.gif)
+![Photoshop2](/ExperimentAnimate4.gif)
 
 _This is a complex GIF of a raccoon and an apple (added factors) with a set background._
 
