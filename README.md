@@ -22,7 +22,7 @@ _This is the second complex GIF that uses the rectangle and text tool to create 
 
 In Adobe Animate, I have done mulitple experiments. I thought this was the Adobe tool that I enjoyed the most. I was able to learn multiple things with Adpbe Animate.
 
-![Animate1](/Experimenting1Animate.gif)
+![Animate1](/Experiment1Animate.gif)
 
 _This is my first experiment in Animate. It helped me learn the skills of onion skinning, and creating an animation with a story._
 
@@ -30,11 +30,11 @@ _This is my first experiment in Animate. It helped me learn the skills of onion 
 
 _In this experiment, I was able to create an animated version of a real object. I was very proud when I finished making it, because the resembelence was amazaing. Though my skills are still basic, I learned how to tweak objects to how I want._
 
-![Animate3](/ExperimentingAnimate3.gif)
+![Animate3](/ExperimentAnimate3.gif)
 
 _For this experiment, I learned the new skills of shape and classic tweening, as well as having a text follow a motion path. I thought this was really cool._
 
-![Animate4](/ExperimentingAnimate4.gif)
+![Animate4](/Experiment4.gif)
 
 _I used my tweeing knowledge to create a sort of 3-D motion._
 
