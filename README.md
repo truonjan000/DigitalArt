@@ -6,7 +6,7 @@
 
 Last semester, I had not been enrolled in this course, so I didn't have a portfolio before. However, I had just created this repository today. So far in this class, I have experimented with Adobe Photoshop, Adobe Animate, and Adobe Character Animate. These are different tools that I can use to create any type of digital art. In Adobe Photoshop, I started with a simple animation in the form of a GIF.
 
-![Photoshop1](/Experimenting2.mov)
+![Photoshop1](/Experimenting2.gif)
 
 _This is a simple GIF of a rainbow._
 
